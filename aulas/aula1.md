@@ -1,3 +1,12 @@
+# Conceitos
+
+- Protótipo
+
+- POC
+
+- MVP
+
+
 # Introdução a Orientação a Objetos
 
 - Atributos: assim como no CSS onde os componentes de uma página html tinham seus atributos caracteristicos, veremos agora que atributos estão presentes não só apenas em estruturas visuais, mas que a nossa forma de abstrair os problemas do mundo real pode utilizar esses atributos para a criação de objetos.
@@ -5,6 +14,11 @@
 
 ## Introdução a Desenvolvimento Mobile
 
-- Linguagens de Programação Nativas: Kotlin (Android) e Swift (IOs). 
+- Linguagens de Programação Nativas: Kotlin (Android) e Swift (IOs).
 - Recursos Nativos: recursos próprio dos smartphones como camera, microfone, giroscópio, sensor de digital, etc.
 - CrossPlatform: utilzização de uma mesma base de código para diversos SOs.
+
+
+# A escolha da Tecnologia
+
+Framework

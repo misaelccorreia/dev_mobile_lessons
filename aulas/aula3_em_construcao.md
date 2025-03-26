@@ -134,3 +134,5 @@
 
 - Após classificar objetos concretos, os alunos devem identificar dois objetos abstratos do cotidiano e descrever seus atributos e comportamentos.
 - Um exemplo dado é o ato de preparar uma aula, que possui características mensuráveis mesmo sendo um conceito abstrato.
+
+
