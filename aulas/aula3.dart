@@ -15,5 +15,4 @@ void main() {
 
   var valorInferido = "Alegria";
   dynamic qualquercoisa = [];
-
 }

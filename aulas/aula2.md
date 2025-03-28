@@ -28,7 +28,7 @@ Durante esse processo:
 - A estrutura de widgets do Flutter traduz o código Dart em **elementos visuais interativos**.
 - O **Skia** lê essas instruções e desenha **cada pixel** diretamente na tela.
 
-## Lista de Exercícios em Dart (Lembrando da Lógica Básica)
+## Lista de Exercícios em Dart (Relembrando a Lógica Básica)
 
 1. Imprimir um nome
 
@@ -45,16 +45,16 @@ Durante esse processo:
 
 6. Somar todos os elementos de uma lista de inteiros
 
-7. Verificar se um número digitado está presente na lista
+7. Verificar se um número específico está presente na lista
 
 8. Contar quantos números pares existem em uma lista de inteiros
 
-9. Criar uma nova lista com apenas os números maiores que 10
+9. Criar uma nova lista a partir da lista anterior com apenas os números maiores que 10
 
 10. Verificar se todos os elementos da lista são positivos
 
 11. Imprimir somente os nomes que começam com a letra "A"
 
-12. Ler um número e imprimir se ele é maior, menor ou igual ao primeiro elemento da lista
+12. Admitir um número e imprimir se ele é maior, menor ou igual ao primeiro elemento da lista
 
 
