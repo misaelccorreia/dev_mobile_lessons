@@ -30,9 +30,9 @@ Durante esse processo:
 
 ## Lista de Exercícios em Dart (Lembrando da Lógica Básica)
 
-1. Imprimir nome
+1. Imprimir um nome
 
-2. Ler nome e imprimir
+2. Salvar um nome em uma variável
 
 3. Adicionar o nome a uma lista
 
@@ -56,4 +56,5 @@ Durante esse processo:
 11. Imprimir somente os nomes que começam com a letra "A"
 
 12. Ler um número e imprimir se ele é maior, menor ou igual ao primeiro elemento da lista
+
 
